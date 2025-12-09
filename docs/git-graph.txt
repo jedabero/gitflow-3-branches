@@ -1,0 +1,48 @@
+* 6c04b10 (HEAD -> staging, origin/staging) docs: add staging release notes draft for v1.1
+| * 159d6b4 (origin/develop, develop) chore: add roadmap for upcoming releases
+| *   d2b2d0d (tag: sync-after-v1.1) chore: back-merge release v1.1
+| |\  
+| | *   3045213 (tag: v1.1, origin/main, main) release: v1.1
+| | |\  
+| |_|/  
+|/| |   
+* | | 02e77c9 (tag: v1.1-rc2) merge: rc fixes
+|\| | 
+| * |   5ec67fa merge: checklist updates for rc
+| |\ \  
+| | * | d179fda (feature/checklist-updates) chore: refine onboarding checklist for RC tags
+| |/ /  
+* | | b7d9872 (tag: v1.1-rc1) merge: start v1.1 release
+|\| | 
+| * |   2bddf19 merge: feature release playbook
+| |\ \  
+| | * | 54b155b (feature/release-playbook) feat: add release playbook
+| |/ /  
+| * | 4751834 chore: sync hotfix v1.0.1
+| |\| 
+* | |   2a9e2fb chore: sync hotfix v1.0.1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   b27c61b (tag: v1.0.1) hotfix: README wording
+| |\ \  
+| | * | d3e0d6a (hotfix/readme-typo) fix: clarify git flow wording in README
+| |/ /  
+| * |   222d216 (tag: v1.0) release: v1.0
+| |\ \  
+| |/ /  
+|/| |   
+* | |   5c7418b merge: prepare release v1.0
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| *   321d676 merge: feature onboarding checklist
+| |\  
+| | * b522c95 (feature/onboarding-checklist) feat: document onboarding checklist
+| |/  
+| * 81b94f7 merge: feature welcome copy
+|/| 
+| * 4f90ccd (feature/welcome-copy) feat: add landing page copy
+|/  
+* 944a28d chore: initial README for git flow demo
