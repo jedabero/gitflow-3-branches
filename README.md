@@ -1,6 +1,6 @@
 # Git Flow (main/staging/develop) Demo
 
-This repo is a staged snapshot of a small project after some time using a 3-branch Git Flow:
+This repo is a staged snapshot of a small project after some time using a 3-branch Git Flow approach:
 
 - **main**: production-ready releases
 - **staging**: pre-prod / release candidate testing
