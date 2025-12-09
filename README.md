@@ -10,7 +10,7 @@ Everything here is Markdown to keep the history easy to read.
 
 ## Visual graph
 
-See `docs/git-graph.png` for a rendered snapshot of the branch history; regenerate with:
+See `docs/git-graph.svg` for a rendered snapshot of the branch history; regenerate with:
 
 ```
 git log --graph --decorate --oneline --all > docs/git-graph.txt
